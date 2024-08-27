@@ -2,7 +2,7 @@
 
 ## Part I
 
-1. [ ] 下载并安装 [VSCode](https://code.visualstudio.com/ "VSCode")；
+1. [x] 下载并安装 [VSCode](https://code.visualstudio.com/ "VSCode")；
 2. [ ] 几个相对常用的快捷键；
    - [ ] `Alt + Z`：查看：切换自动换行；
    - [ ] `Ctrl + \`：查看: 拆分编辑器；←「我自己总是记成 `|`」
@@ -13,18 +13,18 @@
    - [ ] `Ctrl + O`：文件: 打开文件...；
    - [ ] `Ctrl + P`：转到文件...—— 切换正在编辑或者**文件夹/工作区**中的文件；
    - [ ] `Ctrl + R`：最近打开的**文件夹/工作区**或**文件**；
-   - [ ] `Ctrl + Shift + E`：查看: 显示 资源管理器；
-   - [ ] `Ctrl + Shift + G`：查看: 显示 源代码管理；
+   - [x] `Ctrl + Shift + E`：查看: 显示 资源管理器；
+   - [x] `Ctrl + Shift + G`：查看: 显示 源代码管理；
    - [ ] `Ctrl + Shift + N`：新建窗口；
    - [ ] `Ctrl + Shift + P`：命令面板；
    - [ ] `Ctrl + Shift + X`：查看: 显示 扩展；
-3. [ ] 下载并安装 [Git](https://git-scm.com/ "Git")；「参考：[安装指引](https://www.wdssmq.com/post/20140804123.html "安装指引")」
-4. [ ] 设置 VSCode 的默认终端为 Git Bash；「参考：[Git Bash](https://www.wdssmq.com/post/20120915760.html "Git Bash")」
-5. [ ] 生成 SSH 密钥，添加公钥至 Git 平台；「参考：[ssh-keygen](https://www.wdssmq.com/post/20201216004.html "ssh-keygen")」
-6. [ ] 克隆仓库至本地；
-7. [ ] 打开 `HelloZBlog.code-workspace` 工作区；
-8. [ ] 安装**工作区内推荐的插件**；「参考：更多[VSCode 推荐插件](book-tips/2022-07?id=vscode-设置推荐插件 "VSCode 推荐插件")」
-9. [ ] 标记以上任务为完成并提交修改；
+3. [x] 下载并安装 [Git](https://git-scm.com/ "Git")；「参考：[安装指引](https://www.wdssmq.com/post/20140804123.html "安装指引")」
+4. [x] 设置 VSCode 的默认终端为 Git Bash；「参考：[Git Bash](https://www.wdssmq.com/post/20120915760.html "Git Bash")」
+5. [x] 生成 SSH 密钥，添加公钥至 Git 平台；「参考：[ssh-keygen](https://www.wdssmq.com/post/20201216004.html "ssh-keygen")」
+6. [x] 克隆仓库至本地；
+7. [x] 打开 `HelloZBlog.code-workspace` 工作区；
+8. [x] 安装**工作区内推荐的插件**；「参考：更多[VSCode 推荐插件](book-tips/2022-07?id=vscode-设置推荐插件 "VSCode 推荐插件")」
+9. [x] 标记以上任务为完成并提交修改；
 
 
 <!-- 将下一个查找匹配项添加到选择 -->
